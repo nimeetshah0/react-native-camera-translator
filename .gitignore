@@ -17,7 +17,7 @@ yarn-debug.log*
 yarn-error.log*
 
 # API KEYS
-./Constants.js
+Constants.js
 
 .DS_Store
 .watchmanconfig
